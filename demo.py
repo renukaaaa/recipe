@@ -4,8 +4,8 @@ import config
 import math
 
 # Register to get an APP ID and key https://developer.edamam.com/
-app_id = config.application_id
-app_key = config.application_key
+app_id = "24eb7873"
+app_key = "dd47c3b662cfa8c3131362bf4641bf87"
 
 
 includeAppId = "24eb7873"
